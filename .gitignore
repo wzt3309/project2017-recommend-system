@@ -89,5 +89,8 @@ ENV/
 .ropeproject
 
 # Data Set
-/data/ml-1m/*
-/data/ml-100k/*
+data/ml-1m/*
+data/ml-100k/*
+
+# Recommend System Test Records
+records/

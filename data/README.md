@@ -92,7 +92,7 @@ collaborative filtering:
 ## DETAILED DESCRIPTIONS OF DATA FILES
 
 Here are brief descriptions of the data.
-
+```
 ml-data.tar.gz   -- Compressed tar file.  To rebuild the u data files do this:
                 gunzip ml-data.tar.gz
                 tar xvf ml-data.tar
@@ -149,7 +149,7 @@ allbut.pl  -- The script that generates training and test sets where
               all but n of a users ratings are in the training data.
 
 mku.sh     -- A shell script to generate all the u data sets from u.data.
-
+```
 
 # MOVIE-LINES-1M SUMMARY
 
